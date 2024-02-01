@@ -34,31 +34,31 @@ In this Unreal Engine example, I used C++ to create a "DeadZone" actor. When a p
 
 <p align="center">
 Projectile Weapon: <br/>
-<img src="https://i.imgur.com/zGvLTaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lddq93a.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Hitscan Weapon:  <br/>
-<img src="https://i.imgur.com/0biRdzM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+UI Blueprint:  <br/>
+<img src="https://i.imgur.com/GYVP0oX.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-FABIK Animation: <br/>
-<img src="https://i.imgur.com/KEXKNo6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Puzzle 1: <br/>
+<img src="https://i.imgur.com/KEXKNo6.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Animation:  <br/>
-<img src="https://i.imgur.com/n3MhEWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Puzzle 2:  <br/>
+<img src="https://i.imgur.com/BOzDwVG.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Animation Montages: <br/>
-<img src="https://i.imgur.com/s7n4NXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Puzzle 3: <br/>
+<img src="https://i.imgur.com/MH3OUkv.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Niagara Emitters:  <br/>
-<img src="https://i.imgur.com/iN8tRjP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Puzzle 4:  <br/>
+<img src="https://i.imgur.com/EolQ1TF.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Player Elimination Dissolve Material:  <br/>
-<img src="https://i.imgur.com/AYlW06A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Puzzle 5:  <br/>
+<img src="https://i.imgur.com/dKqKTQn.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 </p>
 
 <!--
