@@ -18,9 +18,11 @@ This script defines the behaviour and mechanics of a player character. Using key
 In the game, the RocketProjectile represents a dynamic rocket that changes its behaviour with each game tick. When activated, this rocket has a spherical collision component that allows it to detect and respond to interactions with other game objects. It has an initial and maximum speed of 1000.0 units, and a damage radius of 300.0 units by default. When the rocket collides with another object, it calculates the distance and relative Y-position of the impact if that object is a character. Using this information, the rocket calculates the launch power, emphasising a stronger upward force if the rocket's impact is from below the character. The player is then propelled in the opposite direction as the rocket explodes. If the rocket does not directly hit a character but is nearby when it explodes, it searches for any characters within its damage radius and launches them in the opposite direction. This ensures that the rocket not only affects characters when they come into direct contact with it, but also has an area of effect influence, making it a strategic element in gameplay.
 
 - <b>Launch Pad</b>
+
 In Unreal Engine 5, the script introduces a "LaunchPad" actor written in C++. When you place this actor in a level, it has a collision area that is represented as a box component. If the player's character collides with or enters this box, the LaunchPad detects the event and responds by launching the character into the air. The magnitude of this launching force can be adjusted via the LaunchStrength property, allowing for customization of how strong or powerful the launch effect is. This script essentially creates a dynamic platform that, when interacted with, propels game characters upward, introducing a gameplay mechanic similar to trampolines or jump boosts in other games.
 
 - <b>Dead Zone</b>
+
 In this Unreal Engine example, I used C++ to create a "DeadZone" actor. When a player character enters the collision box associated with this actor, a function is triggered that teleports the player character to a predefined spawn location.
 
 <h2>Technologies Used </h2>
