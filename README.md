@@ -42,15 +42,15 @@ UI Blueprint:  <br/>
 <br />
 <br />
 Puzzle 1: <br/>
-<img src="https://i.imgur.com/KEXKNo6.png" height="80%" width="80%" alt="ProjectileWeapon"/>
-<br />
-<br />
-Puzzle 2:  <br/>
 <img src="https://i.imgur.com/BOzDwVG.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
-Puzzle 3: <br/>
+Puzzle 2:  <br/>
 <img src="https://i.imgur.com/MH3OUkv.png" height="80%" width="80%" alt="ProjectileWeapon"/>
+<br />
+<br />
+Puzzle 3: <br/>
+<img src="https://i.imgur.com/RxEAMt1.png" height="80%" width="80%" alt="ProjectileWeapon"/>
 <br />
 <br />
 Puzzle 4:  <br/>
